@@ -4,6 +4,10 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "朱科羽的笔记",
   description: "放弃幻想, 准备斗争",
+  // srcDir: './src',
+  srcExclude: ['**/README.md', '**/TODO.md'],
+  outDir: '../public',
+  base: 'noliebe-note.github.io', 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
