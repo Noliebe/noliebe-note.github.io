@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "朱科羽 - 笔记",
+  title: "朱科羽的笔记",
   description: "放弃幻想, 准备斗争",
   // srcDir: '../z-n-morgan-book/行囊/web学记',
   // srcDir: '../../z-n-morgan-book/行囊/英语',

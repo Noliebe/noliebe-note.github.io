@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "朱科羽的笔记"
+  name: "朱科羽 - 笔记"
   text: "放弃幻想, 准备斗争"
   tagline: My great project tagline
   actions:
