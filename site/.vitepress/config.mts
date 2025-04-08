@@ -6,7 +6,7 @@ export default defineConfig({
   description: "放弃幻想, 准备斗争",
   // srcDir: './src',
   srcExclude: ['**/README.md', '**/TODO.md'],
-  outDir: '../public',
+  outDir: '../docs',
   base: 'noliebe-note.github.io', 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
