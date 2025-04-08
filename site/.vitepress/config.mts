@@ -7,7 +7,7 @@ export default defineConfig({
   // srcDir: './src',
   srcExclude: ['**/README.md', '**/TODO.md'],
   outDir: '../docs',
-  base: 'noliebe-note.github.io', 
+  // base: 'noliebe-note.github.io',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
